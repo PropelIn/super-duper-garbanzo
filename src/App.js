@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Start
+          Start AI Machine
         </a>
       </header>
     </div>
