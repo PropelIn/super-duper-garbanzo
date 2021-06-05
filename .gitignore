@@ -10,6 +10,7 @@
 
 # production
 /build
+/docsw
 
 # misc
 .DS_Store
