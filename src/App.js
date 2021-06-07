@@ -11,11 +11,10 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.drgeo.se"
-          target="_blank"
+          href="https://propelin.github.io/redesigned-octo-memory/"
           rel="noopener noreferrer"
         >
-          Start AI Machine
+          Start AI
         </a>
       </header>
     </div>
